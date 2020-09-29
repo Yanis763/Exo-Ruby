@@ -1,14 +1,14 @@
-#Affiche un string
+#Affiche une string
 puts "On va compter le nombre d'heures de travail à THP"
-#puts affiche un string et #{} effectue les multiplications
+#puts affiche une string et #{} effectue les multiplications
 puts "Travail : #{10 * 5 * 11}"
-#puts affiche un string et #{} effectue les multiplications
+#puts affiche une string et #{} effectue les multiplications
 puts "En minutes ça fait : #{10 * 5 * 11 * 60}"
-#Affiche un string
+#Affiche une string
 puts "Et en secondes ?"
 #Effectue les multiplications
 puts 10 * 5 * 11 * 60 * 60
-#Affiche un string
+#Affiche une string
 puts "Est-ce que c'est vrai que 3 + 2 < 5 - 7 ?"
 #Le signe(<) va demander si la somme a la gauche du signe est plus petite que celle de droite
 puts 3 + 2 < 5 - 7
